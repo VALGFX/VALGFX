@@ -1,45 +1,12 @@
-<!-- Imaginea de profil - înlocuiește linkul cu al tău dacă vrei -->
-<p align="center">
-  <img src="https://i.pinimg.com/736x/82/f9/bd/82f9bd232efb25e7b9b35e69c6b8a838.jpg"style="border-radius: 20px;" />
-</p>
+<p align="center"> <img src="https://i.pinimg.com/736x/82/f9/bd/82f9bd232efb25e7b9b35e69c6b8a838.jpg" alt="Profile Picture" style="border-radius: 20px; max-width: 250px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" /> </p>
+💫 About Me
 
-# 💫 About Me  
-<p align="center"><strong>💻 Programming | 🎨 Web Design | 🚀 Creative Problem Solver</strong></p>
-
-I’m a passionate developer who combines **clean, efficient code** with **creative web design** to craft modern, user-friendly, and fully responsive websites. My goal is to create digital experiences that look stunning and function flawlessly across all devices.
-
----
-
-### ✨ What I Bring to the Table  
-- 💡 **Thoughtful, user-centered design** that balances aesthetics with usability  
-- ⚙️ **Efficient, scalable code** built for performance and reliability  
-- 📱 **Responsive layouts** that adapt perfectly to desktops, tablets, and mobile devices  
-- 🎨 **Strong visual communication** skills supported by experience in PowerPoint, Excel, and Word presentations  
-
----
-
-### 🌟 My Philosophy  
-Great design goes beyond visuals — it’s about delivering **clear, accessible, and enjoyable experiences**. I’m driven by the challenge of harmonizing form and function to bring ideas to life with style and purpose.
-
----
-
-### 💻 Tech Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
----
-
-### 🌐 Let’s Connect  
-<p align="center">
-  <a href="https://discord.gg/valera_0001" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://instagram.com/tech_valeriu" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/valeriu-mazur-05a92a2a6" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:valeriumazur023@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<p align="center" style="font-size:1.2rem; font-weight:600; margin-top: -10px;"> <span style="color:#2d89ff;">💻 Programming</span> | <span style="color:#e91e63;">🎨 Web Design</span> | <span style="color:#ff9800;">🚀 Creative Problem Solver</span> </p> <p align="center" style="max-width: 700px; margin: 15px auto; font-size: 1rem; line-height: 1.6; color: #444;"> I’m a passionate developer who combines <strong>clean, efficient code</strong> with <strong>creative web design</strong> to craft modern, user-friendly, and fully responsive websites. My goal is to create digital experiences that look stunning and function flawlessly across all devices. </p>
+✨ What I Bring to the Table
+<ul style="max-width: 700px; margin: 0 auto 20px auto; font-size: 1rem; color: #555;"> <li>💡 <strong>Thoughtful, user-centered design</strong> that balances aesthetics with usability</li> <li>⚙️ <strong>Efficient, scalable code</strong> built for performance and reliability</li> <li>📱 <strong>Responsive layouts</strong> that adapt perfectly to desktops, tablets, and mobile devices</li> <li>🎨 <strong>Strong visual communication</strong> skills supported by experience in PowerPoint, Excel, and Word presentations</li> </ul>
+🌟 My Philosophy
+<p style="max-width: 700px; margin: 0 auto 20px auto; font-size: 1rem; color: #444;"> Great design goes beyond visuals — it’s about delivering <strong>clear, accessible, and enjoyable experiences</strong>. I’m driven by the challenge of harmonizing form and function to bring ideas to life with style and purpose. </p>
+💻 Tech Stack
+<p align="center" style="margin-bottom: 30px;"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" /> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> </p>
+🌐 Let’s Connect
+<p align="center"> <a href="https://discord.gg/valera_0001" target="_blank" rel="noopener" style="margin: 0 8px;"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord" /> </a> <a href="https://instagram.com/tech_valeriu" target="_blank" rel="noopener" style="margin: 0 8px;"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" /> </a> <a href="https://linkedin.com/in/valeriu-mazur-05a92a2a6" target="_blank" rel="noopener" style="margin: 0 8px;"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:valeriumazur023@gmail.com" target="_blank" rel="noopener" style="margin: 0 8px;"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /> </a> </p>
