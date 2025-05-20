@@ -43,10 +43,8 @@
 
 ### 📂 Featured Projects
 
-- **[Book Club “The Soul of Books”](#)** — A modern, responsive React site for passionate readers.  
-- **[Financial Dashboard](#)** — A simplified accounting app with Power BI integration and custom reports.  
-- **[Personal Portfolio Website](#)** — Minimalist design + refined UI/UX for showcasing personal projects.  
-
+- **[Book Club “The Soul of Books”](https://sufletul-catilor.vercel.app/index.html)** — A modern, responsive site for passionate readers.  
+- **[Memories](https://fe-memories-srl.vercel.app)** — Modern e-commerce website built with React, focusing on user-friendly product discovery and fast performance. Integrated shopping cart, product search, and payment gateway support for a smooth buying process.
 ---
 
 ### 📚 What I've Learned Recently
