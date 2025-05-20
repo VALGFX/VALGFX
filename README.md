@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm ** Valeriu **
+# 👋 Hi there! I'm **Valeriu**
 
 ### 💻 Developer | 🎨 Web Designer | 🚀 Creative Problem Solver
 
