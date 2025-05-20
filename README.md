@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/82/f9/bd/82f9bd232efb25e7b9b35e69c6b8a838.jpg" alt="Valeriu Mazur" width="200" style="border-radius: 50%; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" />
 </p>
 
-# 👋 Hi there! I'm **Valeriu Mazur**
+# 👋 Hi there! I'm **Valeriu **
 
 ### 💻 Developer | 🎨 Web Designer | 🚀 Creative Problem Solver
 
