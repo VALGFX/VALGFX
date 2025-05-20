@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/82/f9/bd/82f9bd232efb25e7b9b35e69c6b8a838.jpg" alt="Valeriu Mazur" width="200" style="border-radius: 50%; box-shadow: 0 8px 20px rgba(0,0,0,0.15);" />
 </p>
 
-# 👋 Salut! Eu sunt **Valeriu Mazur**
+# 👋 Hi there! I'm **Valeriu Mazur**
 
 ### 💻 Developer | 🎨 Web Designer | 🚀 Creative Problem Solver
 
@@ -11,19 +11,19 @@
 
 ---
 
-### ✨ Ce aduc în echipă
+### ✨ What I Bring to the Team
 
-- 🎯 Construiesc design-uri **user-first** cu interfețe curate și intuitive  
-- ⚡ Scriu cod eficient, ușor de întreținut și scalabil  
-- 📐 Realizez layout-uri responsive care arată impecabil pe orice dispozitiv  
-- 📊 Comunicare vizuală puternică folosind PowerPoint, Excel și Word pentru prezentări impactante  
+- 🎯 I build **user-first** interfaces with clean, intuitive design  
+- ⚡ I write efficient, maintainable, and scalable code  
+- 📐 I create responsive layouts that look perfect on all devices  
+- 📊 I leverage strong visual communication in impactful PowerPoint, Excel, and Word presentations  
 
 ---
 
-### 🔥 Filosofia mea
+### 🔥 My Philosophy
 
-> *"Designul nu este doar cum arată, ci cum funcționează."*  
-> Cred că produsele digitale grozave combină **claritate**, **funcționalitate** și **emoție** pentru experiențe memorabile.
+> *"Design is not just what it looks like and feels like. Design is how it works."*  
+> I believe great digital products combine **clarity**, **functionality**, and **emotion** to deliver memorable experiences.
 
 ---
 
@@ -41,24 +41,24 @@
 
 ---
 
-### 📂 Proiecte Favorite
+### 📂 Featured Projects
 
-- **[Book Club „The Soul of Books”](#)** — Un website React modern, cu design responsive, dedicat pasionaților de lectură.  
-- **[Dashboard Financiar](#)** — O aplicație de contabilitate simplificată, integrând Power BI și rapoarte custom.  
-- **[Site Portfolio Personal](#)** — Combinație de design minimalist și UI/UX rafinat pentru prezentarea proiectelor.  
-
----
-
-### 📚 Ce-am învățat recent
-
-- Cum să combin React Router cu Vite pentru performanță optimă în single-page apps  
-- Tehnici avansate de SASS pentru stilizare modulară și ușor de întreținut  
-- Strategii UX/UI pentru crearea experiențelor accesibile și fluide pe mobil  
-- Automatizarea task-urilor repetitive cu Node.js și scripturi custom  
+- **[Book Club “The Soul of Books”](#)** — A modern, responsive React site for passionate readers.  
+- **[Financial Dashboard](#)** — A simplified accounting app with Power BI integration and custom reports.  
+- **[Personal Portfolio Website](#)** — Minimalist design + refined UI/UX for showcasing personal projects.  
 
 ---
 
-### 🌐 Hai să păstrăm legătura!
+### 📚 What I've Learned Recently
+
+- Combining React Router with Vite for blazing-fast single-page apps  
+- Advanced SASS techniques for modular and scalable styling  
+- UX/UI strategies for smooth and accessible mobile-first experiences  
+- Automating repetitive tasks using Node.js and custom scripts  
+
+---
+
+### 🌐 Let’s Connect!
 
 <p align="center">
   <a href="https://discord.gg/valera_0001" target="_blank" rel="noopener" style="margin: 0 8px;">
@@ -75,7 +75,6 @@
   </a>
 </p>
 
-
 ---
 
-> Dacă vrei să colaborezi sau să discutăm tehnologii noi, sunt aici să te ascult! 🚀
+> Interested in collaborating or geeking out over new tech? I’d love to hear from you! 🚀
