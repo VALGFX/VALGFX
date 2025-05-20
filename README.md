@@ -1,6 +1,6 @@
 <!-- Imaginea de profil - înlocuiește linkul cu al tău dacă vrei -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" alt="Valeriu Mazur" width="150" style="border-radius: 50%;" />
+  <img src="https://i.pinimg.com/736x/82/f9/bd/82f9bd232efb25e7b9b35e69c6b8a838.jpg" alt="Valeriu Mazur" width="150" style="border-radius: 50%;" />
 </p>
 
 # 💫 About Me  
